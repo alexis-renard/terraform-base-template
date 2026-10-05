@@ -74,7 +74,8 @@ A green scanner after your changes is a weaker signal than a green scanner on ha
 - OpenTofu: if the repo uses OpenTofu, say so in Part 3. Most rules here apply; state encryption and early variable evaluation are OpenTofu-only, `ephemeral` and write-only arguments have diverging support. Do not mix `terraform` and `tofu` commands in one repo.
 
 ### Repository layout
-TODO: this needs to be updated with the repository where the terraform code lives by the user of this CLAUDE.md
+
+TODO by the user of this file : update this section with the repository layout.
 
 ### Files and formatting
 
